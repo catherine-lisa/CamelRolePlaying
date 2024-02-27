@@ -33,7 +33,7 @@
 
 ## 系统要求
 
-- Python 3.x
+- ≥ Python 3.8
 - OpenAI API密钥（需存储在`.env`文件中）
 - 所需的Python包（如导入语句中所提到的）
 
